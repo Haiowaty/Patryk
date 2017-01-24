@@ -1,0 +1,2 @@
+getchar();
+return 0;
